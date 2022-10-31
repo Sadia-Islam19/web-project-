@@ -1,0 +1,29 @@
+.headersection,.footersection{ background: #3F0071 none repeat scroll 0 0;}	
+.icon a{ background: #5C2E7E none repeat scroll 0 0;}
+.searchbtn input[type="text"]{background: #5C2E7E none repeat scroll 0 0; border: 1px solid #905E96;}
+.searchbtn input[type="submit"]{ border: 1px solid #150050;}
+.searchbtn input[type="submit"]:hover{ background: #3F0071 none repeat scroll 0 0; border: 1px solid #5C2E7E;}
+input[type="submit"]{background: #3F0071 none repeat scroll 0 0; border: 1px solid #5C2E7E;}
+.navsection{background: #5C2E7E none repeat scroll 0 0;}
+.navsection ul li {border-left: 1px solid #150050;border-right: 1px solid #3F0071;}
+.samepost h2 a{color: #3F0071;}
+.maincontent,.sidebar{background: #FCE2DB none repeat scroll 0 0;}
+.samesidebar h2 {background: #5C2E7E none repeat scroll 0 0;border-bottom: 2px solid #3F0071;}
+.samesidebar ul li {border-bottom: 1px dashed #3F0071;}
+.samesidebar ul li:last-child{border-bottom: 0px dashed #3F0071;}
+.samesidebar ul li a {color: #46244C;}
+.samesidebar ul li a:hover{color:#2E0249;}
+.popular h3 {border-bottom: 1px dashed #3F0071;}
+.popular img {border: 1px solid #5C2E7E;}
+.samepost img {border: 1px solid #5C2E7E;}
+.contentsection {border: 1px solid #5C2E7E;}
+.samesidebar h2 {background: #5C2E7E none repeat scroll 0 0;border-bottom: 2px solid #3F0071;color: #fff;}
+.readmore a {border: 1px solid #5C2E7E;color: #5C2E7E;}
+.readmore a:hover{color: #3F0071;}
+.pagination a{background:#5C2E7E none repeat scroll 0 0;border: 1px solid #3F0071;color: #fff;}
+.pagination a:hover{background:#3F0071 none repeat scroll 0 0;border: 1px solid #5C2E7E;color: #fff;}
+.footermenu ul li a {color: #EBC7E8;}
+.samepost h2, .about h2 {color: #3F0071;}
+.about img {border: 1px solid #3F0071;}
+.relatedpost h2 {background: #5C2E7E none repeat scroll 0 0;border-bottom: 2px solid #3F0071 !important;}
+.footersection p{color:#EBC7E8;}
